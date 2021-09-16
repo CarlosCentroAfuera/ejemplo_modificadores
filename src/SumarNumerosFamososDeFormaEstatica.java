@@ -6,6 +6,7 @@ public class SumarNumerosFamososDeFormaEstatica {
     private static float sumarNumero(int numero1, float numeroFamoso){
         return numero1 + numeroFamoso;
     }
+
     public static float sumarPi(int numero){
         return sumarNumero(numero,valorPi);
     }

@@ -6,6 +6,7 @@ public class SumarNumerosFamosos {
     private float sumarNumero(int numero1, float numeroFamoso){
         return numero1 + numeroFamoso;
     }
+
     public float sumarPi(int numero){
         return sumarNumero(numero,valorPi);
     }
